@@ -1,0 +1,213 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl white_high_gloss_plastic
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl white_high_gloss_plastic-2
+Kd 0.5019608 0.5019608 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl white_high_gloss_plastic-3
+Kd 0.9882353 0.7372549 0.5176471
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_steel
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 99.90109
+
+newmtl brushed_steel
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl polished_ash_2d
+Kd 1 1 1
+map_Kd C:\mecanic 01\whale\octopus\.obj\polished ash.jpg
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_ash_2d-6
+Kd 1 1 1
+map_Kd C:\mecanic 01\whale\octopus\.obj\polished ash.jpg
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl cream_high_gloss_plastic
+Kd 0 1 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl cream_high_gloss_plastic-2
+Kd 0 0 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl brushed_steel-2
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl brushed_steel-3
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl brushed_steel-4
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl brushed_steel-5
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl brushed_steel-6
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl brushed_steel-7
+Kd 1 1 1
+Ks 1 1 1
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl sandblasted_glass
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+map_bump -bm 0.02 C:\mecanic 01\whale\octopus\.obj\sandblasted.dds
+bump C:\mecanic 01\whale\octopus\.obj\sandblasted.dds
+illum 2
+Ns 99.90109
+
+newmtl color
+Kd 0 0 0
+Ks 1 1 1
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 0.7921569 0.8196079 0.9333333
+Ks 1 1 1
+illum 2
+Ns 99.90109
+
+newmtl color-3
+Kd 1 0 0
+Ks 1 1 1
+illum 2
+Ns 99.90109
+
+newmtl color-4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 99.90109
+
+newmtl brushed_steel-8
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 21.17834
+
+newmtl cream_low_gloss_plastic
+Kd 0 0 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 4.130435
+
+newmtl cream_low_gloss_plastic-2
+Kd 0.7529412 0 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 4.130435
+
+newmtl white_low_gloss_plastic
+Kd 1 0 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 4.130435
+
+newmtl brushed_aluminum
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.2509804 0.2509804 0.2509804
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 9.999999
+
+newmtl clear_glass
+Kd 1 1 1
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl brushed_aluminum-2
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.2509804 0.2509804 0.2509804
+map_Ks C:\mecanic 01\whale\octopus\.obj\diffuse_brushed.dds
+map_bump -bm 0 C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+bump C:\mecanic 01\whale\octopus\.obj\swbrushed_bump.jpg
+illum 2
+Ns 9.999999
+
+newmtl texture
+Kd 1 1 1
+map_Kd C:\mecanic 01\whale\octopus\.obj\Screenshot 2025-09-07 153049.png
+Ks 1 1 1
+illum 2
+Ns 99.90109
+
+newmtl color-6
+Kd 0.2509804 0.2509804 0.2509804
+Ks 1 1 1
+illum 2
+Ns 99.90109
